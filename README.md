@@ -7,7 +7,6 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
 
@@ -42,15 +41,11 @@
   </ol>
   <p>Please follow the <a href="CODE_OF_CONDUCT.md">code of conduct</a> while contributing.</p>
 
-  <h2>License</h2>
-  <p>The Dad Joke App is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
   <h2>Contact</h2>
   <p>For any questions or inquiries, feel free to reach out to me:</p>
   <ul>
-    <li>Email: your-email@example.com</li>
-    <li>Twitter: <a href="https://twitter.com/your-twitter-handle">@your-twitter-handle</a></li>
-    <li>GitHub: <a href="https://github.com/your-username">your-username</a></li>
+    <li>Email: adityavishwakarma2011@gmail.com </li>
+    <li>GitHub: <a href="https://github.com/ADKR-26">ADKR-26</a></li>
   </ul>
 
   <p>Enjoy the dad jokes and have fun with the app!</p>
