@@ -14,7 +14,7 @@
   <ol>
     <li>Clone the repository to your local machine using the following command:</li>
   </ol>
-  <pre><code>git clone https://github.com/your-username/dad-joke-app.git</code></pre>
+  <pre><code>git clone https://github.com/ADKR-26/dad-joke-app.git</code></pre>
   <ol start="2">
     <li>Navigate to the project directory:</li>
   </ol>
